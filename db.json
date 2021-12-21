@@ -1,0 +1,53 @@
+ {
+  "warriors":[
+    {
+      "name":"Lord Krishna",
+      "id": 1,
+      "weapon": "sudarshan chakra"
+    },
+    {
+      "name":"Bhishma",
+      "id": 2,
+      "weapon": "Bow & Arrow"
+    } , 
+    {
+      "name":"Arjuna",
+      "id": 3,
+      "weapon": "Bow & Arrow"
+    },
+    {
+      "name":"Karna",
+      "id": 4,
+      "weapon": "Bow & Arrow"
+    },
+    {
+      "name":"Bhema",
+      "id": 5,
+      "weapon": "Mace"
+    }, {
+      "name":"Duryodhana",
+      "id": 6,
+      "weapon": "Mace"
+    },
+    {
+      "name":"Balrama",
+      "id": 7,
+      "weapon": "Mace"
+    }, 
+    {
+      "name":"Hanumana",
+      "id": 8,
+      "weapon": "Mace"
+    },
+    {
+      "name":"ghatotkacha",
+      "id": 9,
+      "weapon": "magic"
+    },
+    {
+      "name":"Shiva", 
+      "id": 10,
+      "weapon": "Trident"
+    } 
+  ]
+}
